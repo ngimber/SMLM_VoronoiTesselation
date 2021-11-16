@@ -22,4 +22,5 @@ Instructions
 References
 -------
 [1] Ovesny, M., et al., ThunderSTORM: a comprehensive ImageJ plug-in for PALM and STORM data analysis and super-resolution imaging. Bioinformatics, 2014. 30(16): p. 2389-90. 
+
 [2] Tadeus, G. (2015) SDmixer2 https://github.com/gtadeus/sdmixer2 GitHub. 
