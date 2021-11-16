@@ -1,4 +1,4 @@
-Voronoi Tesselation for Single Molecule Localization Microscopy
+Voronoi Tesselation for Single-Molecule Localization Microscopy
 ==========
 
 The included Python script performs Voronoi tesselation on localization tables from from single-molecule localization microscopy.
