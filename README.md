@@ -6,7 +6,7 @@ Localization tables must have the ThunderSTORM [1] oder SD-Mixer [2] file format
 
 The script was used for the the following publications:
 
-
+ Gimber, N., et al., Simultaneous multicolor DNA-PAINT without sequential fluid exchange using spectral demixing. biRxiv, 2021. https://doi.org/10.1101/2021.11.19.469218 
 
 Instructions
 -------
@@ -24,3 +24,5 @@ References
 [1] Ovesny, M., et al., ThunderSTORM: a comprehensive ImageJ plug-in for PALM and STORM data analysis and super-resolution imaging. Bioinformatics, 2014. 30(16): p. 2389-90. 
 
 [2] Tadeus, G. (2015) SDmixer2 https://github.com/gtadeus/sdmixer2 GitHub. 
+
+[3] Gimber, N., et al., Simultaneous multicolor DNA-PAINT without sequential fluid exchange using spectral demixing. biRxiv, 2021. https://doi.org/10.1101/2021.11.19.469218 
